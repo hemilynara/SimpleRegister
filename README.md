@@ -9,7 +9,7 @@ Este é um projeto desenvolvido em ASP.NET Core MVC que permite o registro de us
 - C# (linguagem de programação principal)
 - HTML/CSS (para a interface do usuário)
 - Bootstrap (para estilização e responsividade)
-- Microsoft SQL Server (ou outro banco de dados suportado pelo Entity Framework Core)
+- Microsoft SQL Server (Banco de dados suportado pelo Entity Framework Core)
 
 ## Funcionalidades
 - Página de registro de usuário com validação de formulário
